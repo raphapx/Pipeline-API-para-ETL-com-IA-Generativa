@@ -1,1 +1,1 @@
-[Visualizar o Notebook](path/to/README.ipynb)
+[Visualizar o Notebook](README.ipynb)
